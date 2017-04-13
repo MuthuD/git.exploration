@@ -19,5 +19,8 @@
   "homepage": "https://github.com/MuthuD/git.exploration#readme",
   "dependencies": {
     "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.12"
   }
 }
