@@ -8,9 +8,6 @@ app.get('/', function (req, res) {
 app.listen(3000, function () {
   console.log('Example app listening on port 3000!')
 })
-
-console.log('test');
 //update from master
 //test update
-//2nd message from feature1
-//2nd message from master
+2nd message from master
